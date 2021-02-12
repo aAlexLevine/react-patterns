@@ -24,4 +24,7 @@ export default useFetch;
     //dynamic api's
   //abort fetch on unmount
 
+  // implement refetch
+  // passing a config object
+
   //optionally memoize/cache data retrieved
